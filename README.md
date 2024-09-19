@@ -1,3 +1,1 @@
-Проект "Оно тебе надо"
-Первая Итерация
-Калмыков Даниил Андреевич
+https://github.com/danrarium/ono-tebe-nado.git
